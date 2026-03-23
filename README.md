@@ -1,2 +1,2 @@
-# calculator-chaos
-gw mau belajar rapihin GitHub lagi...
+# Calculator Chaos
+Versi dari Lokal
